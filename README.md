@@ -1,0 +1,1 @@
+This C# code calculates all possible combinations of ATM payout denominations to match given payout amounts. It defines a function, CalculateCombinations, which utilizes recursion to generate combinations. The code iterates through an array of payout amounts, checking for invalid inputs and calculating combinations for valid ones. Each combination is then printed to the console.
